@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sample-web/sample-web/static/css/main.e97b4ad6.chunk.css",
-    "main.js": "/sample-web/sample-web/static/js/main.6854ff44.chunk.js",
-    "main.js.map": "/sample-web/sample-web/static/js/main.6854ff44.chunk.js.map",
-    "runtime-main.js": "/sample-web/sample-web/static/js/runtime-main.85c0d69d.js",
-    "runtime-main.js.map": "/sample-web/sample-web/static/js/runtime-main.85c0d69d.js.map",
-    "static/js/2.456bbb19.chunk.js": "/sample-web/sample-web/static/js/2.456bbb19.chunk.js",
-    "static/js/2.456bbb19.chunk.js.map": "/sample-web/sample-web/static/js/2.456bbb19.chunk.js.map",
-    "index.html": "/sample-web/sample-web/index.html",
-    "precache-manifest.fd9a19d7f78cf7280de1a254f85fb9eb.js": "/sample-web/sample-web/precache-manifest.fd9a19d7f78cf7280de1a254f85fb9eb.js",
-    "service-worker.js": "/sample-web/sample-web/service-worker.js",
-    "static/css/main.e97b4ad6.chunk.css.map": "/sample-web/sample-web/static/css/main.e97b4ad6.chunk.css.map",
-    "static/js/2.456bbb19.chunk.js.LICENSE.txt": "/sample-web/sample-web/static/js/2.456bbb19.chunk.js.LICENSE.txt"
+    "main.css": "/sample-web/static/css/main.e97b4ad6.chunk.css",
+    "main.js": "/sample-web/static/js/main.13368b85.chunk.js",
+    "main.js.map": "/sample-web/static/js/main.13368b85.chunk.js.map",
+    "runtime-main.js": "/sample-web/static/js/runtime-main.543ef1e5.js",
+    "runtime-main.js.map": "/sample-web/static/js/runtime-main.543ef1e5.js.map",
+    "static/js/2.456bbb19.chunk.js": "/sample-web/static/js/2.456bbb19.chunk.js",
+    "static/js/2.456bbb19.chunk.js.map": "/sample-web/static/js/2.456bbb19.chunk.js.map",
+    "index.html": "/sample-web/index.html",
+    "precache-manifest.226f03578f9dd335f175d343bc9500a7.js": "/sample-web/precache-manifest.226f03578f9dd335f175d343bc9500a7.js",
+    "service-worker.js": "/sample-web/service-worker.js",
+    "static/css/main.e97b4ad6.chunk.css.map": "/sample-web/static/css/main.e97b4ad6.chunk.css.map",
+    "static/js/2.456bbb19.chunk.js.LICENSE.txt": "/sample-web/static/js/2.456bbb19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85c0d69d.js",
+    "static/js/runtime-main.543ef1e5.js",
     "static/js/2.456bbb19.chunk.js",
     "static/css/main.e97b4ad6.chunk.css",
-    "static/js/main.6854ff44.chunk.js"
+    "static/js/main.13368b85.chunk.js"
   ]
 }
