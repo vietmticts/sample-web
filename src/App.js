@@ -17,6 +17,9 @@ function App() {
         <a className="App-link" href="facetime:tester@icts.vn" >facetime:tester@icts.vn</a>
         <a className="App-link" href="facetime-audio:tester@icts.vn" >facetime-audio:tester@icts.vn</a>
         {/* <a className="App-link" href="http://maps.apple.com/?ll=50.894967,4.341626" > Map </a> */}
+
+        <a className="App-link" href="https://apps.apple.com/vn/app/facebook/id284882215?l=ja" >Download Facebook</a>
+        <a className="App-link" href="https://apps.apple.com/vn/app/lunascape-web-browser/id380065805?l=ja" >Download Lunascape web browser</a>
       </header>
     </div>
   );
